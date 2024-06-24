@@ -7,7 +7,6 @@ import Landing from "./scenes/Landing"
 import LineGradient from "./components/LineGradient"
 import MySkills from "./scenes/MySkills"
 import Projects from "./scenes/Projects"
-import Details from "./scenes/Details"
 import Contact from "./scenes/Contact"
 import Footer from "./scenes/Footer"
 

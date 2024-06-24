@@ -1,7 +1,6 @@
 import { useState } from "react"
 import useMediaQuery from "../hooks/useMediaQuery"
 import AnchorLink from "react-anchor-link-smooth-scroll"
-import menuIcon from "../assets/menu-icon.svg"
 
 type NavbarProps = {
   selectedPage: string
